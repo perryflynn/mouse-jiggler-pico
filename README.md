@@ -11,7 +11,7 @@ A mouse jiggler and keyboard emulator based on a [Waveshare RP2040-One](https://
 
 ## Installation
 
-- Flash [CirquitPython](https://circuitpython.org/board/raspberry_pi_pico/) to your pico
+- Flash [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) to your pico
 - Copy the files via USB Storage
 - Reset
 
